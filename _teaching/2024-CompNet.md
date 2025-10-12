@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervision"
 permalink: /teaching/2023-PofC
 venue: "Department of Computer Science and Technology, University of Cambridge"
-date: 2022-2024
+dates: 2022-2024
 location: "Cambridge, UK"
 ---
 
