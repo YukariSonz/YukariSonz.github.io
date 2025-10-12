@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yilei Liang (PhD Cantab)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Yilei Liang (梁燚磊) is an incoming Post-Doctoral Researcher at Peng Cheng Laboratory, Shenzhen, China. He received his PhD degree in Computer Science from the Department of Computer Science & Technology, University of Cambridge in 2025. Before that, he earned his Bachelor’s degree in Computer Science from King’s College London in 2020, and briefly attended ETH Zürich for a master’s before joining Cambridge in 2021. Yilei’s research interests lie at the intersection of federated learning and networking. During his doctoral studies, he did internships as an Algorithm Research Intern at Huawei (summer 2024) and Deep Learning Research Intern at MediaTek Research UK (2023).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Outside of research, Yilei is a licensed private pilot with instrument rating. He is fluent in Chinese (Mandarin & Cantonese) and English, holds working proficiency in Japanese, and has basic knowledge of German and Danish.
+
+
 
 A data-driven personal website
 ======
