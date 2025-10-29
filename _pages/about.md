@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yilei Liang (梁燚磊) is an incoming Post-Doctoral Researcher at Peng Cheng Laboratory, Shenzhen, China. He received his PhD degree in Computer Science from the Department of Computer Science & Technology, University of Cambridge in 2025. Before that, he earned his Bachelor’s degree in Computer Science from King’s College London in 2020, and briefly attended ETH Zürich for a master’s before joining Cambridge in 2021. Yilei’s research interests lie at the intersection of federated learning and networking. During his doctoral studies, he did internships as an Algorithm Research Intern at Huawei (summer 2024) and Deep Learning Research Intern at MediaTek Research UK (2023).
+Yilei Liang (梁燚磊) received his PhD degree in Computer Science from the Department of Computer Science & Technology, University of Cambridge in 2025. Before that, he earned his Bachelor’s degree in Computer Science from King’s College London in 2020, and briefly attended ETH Zürich for a master’s before joining Cambridge in 2021. Yilei’s research interests lie at the intersection of federated learning and networking. During his doctoral studies, he did internships as an Algorithm Research Intern at Huawei (summer 2024) and Deep Learning Research Intern at MediaTek Research UK (2023).
 
 Outside of research, Yilei is a licensed private pilot with instrument rating. He is fluent in Chinese (Mandarin & Cantonese) and English, holds working proficiency in Japanese, and has basic knowledge of German and Danish.
 
